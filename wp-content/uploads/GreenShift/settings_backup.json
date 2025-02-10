@@ -1,0 +1,23 @@
+{
+    "_locale": "user",
+    "show_element_block": "regular",
+    "presets": [
+        {
+            "elements": "",
+            "gradients": {
+                "one": "linear-gradient(118deg, #21D4FD 0%, #B721FF 100%)",
+                "two": "linear-gradient(147deg, #FFE53B 0%, #FF2525 74%)"
+            },
+            "colours": {
+                "one": "#2184f9",
+                "two": "#e90000",
+                "three": "#2adb32",
+                "four": "#696cff",
+                "five": "#ff9800"
+            },
+            "variables": [],
+            "global_classes": [],
+            "name": "Snapshot #0"
+        }
+    ]
+}
